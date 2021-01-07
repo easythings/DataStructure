@@ -1,2 +1,2 @@
 # DataStructure
-from DataStructure class
+C language
